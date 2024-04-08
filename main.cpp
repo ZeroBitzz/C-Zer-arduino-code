@@ -38,8 +38,5 @@ void loop() {
     left_servo.write(180);
     right_servo.write(1);
     delayMicroseconds(1000);
-//    left_servo.write(1);
-//    right_servo.write(1);
-//    delayMicroseconds(1000);
   }
 }
